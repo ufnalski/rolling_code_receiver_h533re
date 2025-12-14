@@ -172,7 +172,7 @@ int main(void)
 	printf(DEFAULT_TERMINAL"\r\n\r\n"DEFAULT_TERMINAL);
 	PrintTimestamp();
 	printf(
-			DEFAULT_TERMINAL"Welcome to KeeLog world of rolling/hopping codes!\r\n"DEFAULT_TERMINAL);
+			DEFAULT_TERMINAL"Welcome to KeeLoq world of rolling/hopping codes!\r\n"DEFAULT_TERMINAL);
 	HAL_GPIO_WritePin(GREEN_LED_GPIO_Port, GREEN_LED_Pin, GPIO_PIN_RESET);
 	/* USER CODE END BSP */
 
